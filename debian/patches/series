@@ -1,1 +1,2 @@
 0001-cgmanager-turn-cgroupfs-rw-before-trying-to-unlink-s.patch
+0002-move-cgm-release-agent-to-libexecdir.patch
