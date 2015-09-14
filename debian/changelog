@@ -4,8 +4,9 @@ cgmanager (0.39-2) UNRELEASED; urgency=medium
     - drop empty /lib/security from libpam-cgm.dirs
     - drop redundant section and priority
     - add override for xs-testsuite (needed for older Ubuntu ppas)
+    - move cgm-release-agent to /usr/lib/$multiarch
 
- -- Serge Hallyn <serge.hallyn@ubuntu.com>  Mon, 14 Sep 2015 13:43:16 -0500
+ -- Serge Hallyn <serge.hallyn@ubuntu.com>  Mon, 14 Sep 2015 17:18:42 -0500
 
 cgmanager (0.39-1) unstable; urgency=medium
 
