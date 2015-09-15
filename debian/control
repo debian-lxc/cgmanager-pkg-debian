@@ -17,6 +17,8 @@ Build-Depends:
         pkg-config,
 Standards-Version: 3.9.6
 Homepage: http://cgmanager.linuxcontainers.org/
+Vcs-Git: git://github.com/lxc/cgmanager-pkg-ubuntu
+Vcs-Browser: https://github.com/lxc/cgmanager-pkg-ubuntu
 XS-Testsuite: autopkgtest
 
 Package: cgmanager
