@@ -1,4 +1,4 @@
-cgmanager (0.39-2) UNRELEASED; urgency=medium
+cgmanager (0.39-2) unstable; urgency=medium
 
   * address lintian warnings:
     - drop empty /lib/security from libpam-cgm.dirs
