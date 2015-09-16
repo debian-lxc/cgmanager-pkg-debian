@@ -4,7 +4,7 @@ cgmanager (0.39-2) unstable; urgency=medium
     - drop empty /lib/security from libpam-cgm.dirs
     - drop redundant section and priority
     - make C/R for cgmanager-utils unversioned
-    - move cgm-release-agent to /usr/lib/$multiarch
+    - move cgm-release-agent to /lib/cgmanager/
 
  -- Serge Hallyn <serge.hallyn@ubuntu.com>  Mon, 14 Sep 2015 17:18:42 -0500
 

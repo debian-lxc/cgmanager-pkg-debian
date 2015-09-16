@@ -1,4 +1,4 @@
 sbin
 bin/* usr/bin/
 debian/notify-cgmanager.conf usr/share/upstart/sessions/
-lib/*/cgmanager/cgm-release-agent
+lib/cgmanager/cgm-release-agent
