@@ -1,1 +1,0 @@
-cgmanager: conflicts-with-version cgmanager-utils (<< 0.30-1)
