@@ -3,7 +3,6 @@ cgmanager (0.39-2) unstable; urgency=medium
   * address lintian warnings:
     - drop empty /lib/security from libpam-cgm.dirs
     - drop redundant section and priority
-    - add override for xs-testsuite (needed for older Ubuntu ppas)
     - make C/R for cgmanager-utils unversioned
     - move cgm-release-agent to /usr/lib/$multiarch
 
