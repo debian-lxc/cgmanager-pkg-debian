@@ -1,2 +1,4 @@
 0001-cgmanager-turn-cgroupfs-rw-before-trying-to-unlink-s.patch
 0002-move-cgm-release-agent-to-libexecdir.patch
+0003-make-sure-to-remove-cgm-release-agent-symlinks.patch
+0004-accomodate-systemd-s-init.scope-cgroup.patch

@@ -1,3 +1,21 @@
+cgmanager (0.39-2ubuntu2+debian1~jessie) jessie; urgency=medium
+
+  * No-change port to jessie
+
+ -- Fajar A. Nugraha <ubuntu-ppa@fajar.net>  Sun, 18 Oct 2015 17:41:00 +0700
+
+cgmanager (0.39-2ubuntu2) wily; urgency=medium
+
+  * Allow systemd to escape its custom cgroup.  (LP: #1497420)
+
+ -- Serge Hallyn <serge.hallyn@ubuntu.com>  Thu, 15 Oct 2015 09:00:25 -0500
+
+cgmanager (0.39-2ubuntu1) wily; urgency=medium
+
+  * Fix failure to start when upgrading to new cgm-release-agent location.
+
+ -- Serge Hallyn <serge.hallyn@ubuntu.com>  Tue, 13 Oct 2015 14:50:12 -0500
+
 cgmanager (0.39-2) unstable; urgency=medium
 
   * address lintian warnings:
